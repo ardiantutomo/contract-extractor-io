@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/contract-extractor-io/static/css/main.3fecd08e.chunk.css",
-    "main.js": "/contract-extractor-io/static/js/main.b5082328.chunk.js",
-    "main.js.map": "/contract-extractor-io/static/js/main.b5082328.chunk.js.map",
+    "main.css": "/contract-extractor-io/static/css/main.27a7ee61.chunk.css",
+    "main.js": "/contract-extractor-io/static/js/main.741513b9.chunk.js",
+    "main.js.map": "/contract-extractor-io/static/js/main.741513b9.chunk.js.map",
     "runtime-main.js": "/contract-extractor-io/static/js/runtime-main.e322a8ec.js",
     "runtime-main.js.map": "/contract-extractor-io/static/js/runtime-main.e322a8ec.js.map",
     "static/css/2.9edc93b8.chunk.css": "/contract-extractor-io/static/css/2.9edc93b8.chunk.css",
-    "static/js/2.35d8233b.chunk.js": "/contract-extractor-io/static/js/2.35d8233b.chunk.js",
-    "static/js/2.35d8233b.chunk.js.map": "/contract-extractor-io/static/js/2.35d8233b.chunk.js.map",
+    "static/js/2.717dc6ea.chunk.js": "/contract-extractor-io/static/js/2.717dc6ea.chunk.js",
+    "static/js/2.717dc6ea.chunk.js.map": "/contract-extractor-io/static/js/2.717dc6ea.chunk.js.map",
     "index.html": "/contract-extractor-io/index.html",
-    "precache-manifest.bc7f69ac67d4279ef43c09c6631d5114.js": "/contract-extractor-io/precache-manifest.bc7f69ac67d4279ef43c09c6631d5114.js",
+    "precache-manifest.de55c14c9fbf093a3e5217ed4ae6eccd.js": "/contract-extractor-io/precache-manifest.de55c14c9fbf093a3e5217ed4ae6eccd.js",
     "service-worker.js": "/contract-extractor-io/service-worker.js",
     "static/css/2.9edc93b8.chunk.css.map": "/contract-extractor-io/static/css/2.9edc93b8.chunk.css.map",
-    "static/css/main.3fecd08e.chunk.css.map": "/contract-extractor-io/static/css/main.3fecd08e.chunk.css.map",
-    "static/js/2.35d8233b.chunk.js.LICENSE.txt": "/contract-extractor-io/static/js/2.35d8233b.chunk.js.LICENSE.txt"
+    "static/css/main.27a7ee61.chunk.css.map": "/contract-extractor-io/static/css/main.27a7ee61.chunk.css.map",
+    "static/js/2.717dc6ea.chunk.js.LICENSE.txt": "/contract-extractor-io/static/js/2.717dc6ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e322a8ec.js",
     "static/css/2.9edc93b8.chunk.css",
-    "static/js/2.35d8233b.chunk.js",
-    "static/css/main.3fecd08e.chunk.css",
-    "static/js/main.b5082328.chunk.js"
+    "static/js/2.717dc6ea.chunk.js",
+    "static/css/main.27a7ee61.chunk.css",
+    "static/js/main.741513b9.chunk.js"
   ]
 }
