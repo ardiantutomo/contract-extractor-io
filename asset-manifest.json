@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/contract-extractor-io/static/css/main.27a7ee61.chunk.css",
-    "main.js": "/contract-extractor-io/static/js/main.3102f20e.chunk.js",
-    "main.js.map": "/contract-extractor-io/static/js/main.3102f20e.chunk.js.map",
+    "main.js": "/contract-extractor-io/static/js/main.cb4594f2.chunk.js",
+    "main.js.map": "/contract-extractor-io/static/js/main.cb4594f2.chunk.js.map",
     "runtime-main.js": "/contract-extractor-io/static/js/runtime-main.e322a8ec.js",
     "runtime-main.js.map": "/contract-extractor-io/static/js/runtime-main.e322a8ec.js.map",
     "static/css/2.9edc93b8.chunk.css": "/contract-extractor-io/static/css/2.9edc93b8.chunk.css",
     "static/js/2.72a20f6a.chunk.js": "/contract-extractor-io/static/js/2.72a20f6a.chunk.js",
     "static/js/2.72a20f6a.chunk.js.map": "/contract-extractor-io/static/js/2.72a20f6a.chunk.js.map",
     "index.html": "/contract-extractor-io/index.html",
-    "precache-manifest.07c9355b36a205ad0614e5ffd19214a1.js": "/contract-extractor-io/precache-manifest.07c9355b36a205ad0614e5ffd19214a1.js",
+    "precache-manifest.c333fadf6a314b203252dd805d653b88.js": "/contract-extractor-io/precache-manifest.c333fadf6a314b203252dd805d653b88.js",
     "service-worker.js": "/contract-extractor-io/service-worker.js",
     "static/css/2.9edc93b8.chunk.css.map": "/contract-extractor-io/static/css/2.9edc93b8.chunk.css.map",
     "static/css/main.27a7ee61.chunk.css.map": "/contract-extractor-io/static/css/main.27a7ee61.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.9edc93b8.chunk.css",
     "static/js/2.72a20f6a.chunk.js",
     "static/css/main.27a7ee61.chunk.css",
-    "static/js/main.3102f20e.chunk.js"
+    "static/js/main.cb4594f2.chunk.js"
   ]
 }

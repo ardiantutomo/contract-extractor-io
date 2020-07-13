@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98c0f7bd108ac91ee76d0186404e47fd",
+    "revision": "0d456d785a594eb004936b7432cd965f",
     "url": "/contract-extractor-io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/contract-extractor-io/static/css/2.9edc93b8.chunk.css"
   },
   {
-    "revision": "709744eeca8b165be92c",
+    "revision": "d76d84e3bcad005034cb",
     "url": "/contract-extractor-io/static/css/main.27a7ee61.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/contract-extractor-io/static/js/2.72a20f6a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "709744eeca8b165be92c",
-    "url": "/contract-extractor-io/static/js/main.3102f20e.chunk.js"
+    "revision": "d76d84e3bcad005034cb",
+    "url": "/contract-extractor-io/static/js/main.cb4594f2.chunk.js"
   },
   {
     "revision": "6b269bb348bb600b74c0",
